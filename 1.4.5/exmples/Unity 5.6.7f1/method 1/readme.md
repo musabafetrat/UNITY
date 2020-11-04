@@ -11,15 +11,17 @@
 
 
 ## گام دوم
-فایل پکیج
-***9
+ پکیج
+
+[Unity_5.6.7f1_package_example](https://github.com/cheshmak/UNITY/blob/main/1.4.5/exmples/Unity%205.6.7f1/method%201/Unity_5.6.7f1_package_example.zip)
+
 دانلودکنید، از حالت فشرده خارج کنید و در یک پروژه جدید، ایمپورت کنید
 
 ## گام سوم
 برای خروجی نهایی باید وی.پی ان ران کنید
 حالت خروجی یونیتی را به
 
-**Gradle (new)**
+> Gradle (new)
 
 تغییر بدهید
 

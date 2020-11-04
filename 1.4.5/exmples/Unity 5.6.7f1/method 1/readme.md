@@ -1,5 +1,5 @@
 ## گام نخست
- محتویات داخل پوشه زیر را پاک کنید. (ممکن است بسته به محل نصب یونیتی نسخه پنج فرق کند). برای اطمنیان بیشتر از پوشه فعلی نصب خود بک آپ بگیرید
+ محتویات داخل پوشه زیر را پاک کنید. (ممکن است بسته به محل نصب یونیتی، مسیر متفاوت باشد). برای اطمنیان بیشتر از پوشه فعلی نصب خود بک آپ بگیرید
  
     D:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\gradle\lib
 
@@ -27,8 +27,11 @@
 
 [اطلاعات بیشتر](https://docs.unity3d.com/560/Documentation/Manual/android-gradle-overview.html)
 
+در این مرحله کار تمام است و شما می توانید خروجی نهایی را بگیرید. 
+
 ## دانلود پروژه کامل
-دانلود
+
+[دانلود](https://github.com/cheshmak/UNITY/blob/main/1.4.5/exmples/Unity%205.6.7f1/method%201/unity_5.6_full_project_example.rar)
 
 ## اطلاعات بیشتر
 

@@ -3,11 +3,11 @@
  
     D:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\gradle\lib
 
- محتوای جدید را از فایل  
+ محتوای جدید را از مسیر زیر  
  
- gradle_lib.rar
+  [gradle_lib](https://github.com/cheshmak/UNITY/tree/main/1.4.5/exmples/Unity%205.6.7f1/gradle_lib)
  
- باز کنید و جایگزین کنید
+دانلود و جایگزین کنید
 
 
 ## گام دوم
@@ -18,7 +18,9 @@
 ## گام سوم
 برای خروجی نهایی باید وی.پی ان ران کنید
 حالت خروجی یونیتی را به
+
 **Gradle (new)**
+
 تغییر بدهید
 
 [اطلاعات بیشتر](https://docs.unity3d.com/560/Documentation/Manual/android-gradle-overview.html)

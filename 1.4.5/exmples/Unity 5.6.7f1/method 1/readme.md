@@ -18,12 +18,15 @@
 حالت خروجی یونیتی را به
 **Gradle (new)**
 تغییر بدهید
+
 [اطلاعات بیشتر](https://docs.unity3d.com/560/Documentation/Manual/android-gradle-overview.html)
 
 ## دانلود پروژه کامل
 دانلود
 
 ## اطلاعات بیشتر
+
 [داکیومنت 1](https://www.cheshmak.me/docs/unity/)
+
 [داکیومنت 2](https://www.cheshmak.me/docs/%DB%8C%D9%88%D9%86%DB%8C%D8%AA%DB%8C/)
 

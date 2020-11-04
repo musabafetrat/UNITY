@@ -4,7 +4,9 @@
     D:\Program Files (x86)\Unity\Editor\Data\PlaybackEngines\AndroidPlayer\Tools\gradle\lib
 
  محتوای جدید را از فایل  
+ 
  gradle_lib.rar
+ 
  باز کنید و جایگزین کنید
 
 

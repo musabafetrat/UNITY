@@ -1,0 +1,6 @@
+قبل از بسته شدن یونیتی
+
+unity 5.6\Temp\gradleOut\build\outputs\apk
+
+FileNotFoundException: Temp\gradleOut\build\outputs\apk\gradleOut-release.apk does not exist
+System.IO.File.Move (System.String sourceFileName, System.String destFileName) (at 
